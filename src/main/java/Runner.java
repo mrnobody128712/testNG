@@ -10,7 +10,7 @@ public class Runner {
 
         //remote da değişiklik 
         //githubta commit
-
+        //developer2 buraya kod yazdı.
 
     }
 }
