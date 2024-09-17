@@ -5,6 +5,7 @@ public class Runner {
         System.out.println("versiyon 2");
         System.out.println("versiyon 3");
         //remote da değişiklik 
+        //githubta commit
 
     }
 }
